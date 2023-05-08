@@ -7,6 +7,6 @@
 </head>
 <body id="body" class="body">
 
-	<? include "preloader.php"; ?>
+	<? // include "preloader.php"; ?>
 	
 	<? include "menu.php"; ?>
