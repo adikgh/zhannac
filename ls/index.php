@@ -43,9 +43,9 @@
                      </a>
                   <? endif ?>
                   <? if ($site['youtube']): ?>
-                     <a href="https://youtube.com/<?=$site['youtube']?>">
+                     <a href="https://youtube.com/@<?=$site['youtube']?>">
                         <i class="fab fa-youtube"></i>
-                        <span>You Tube</span>
+                        <span>YouTube</span>
                      </a>
                   <? endif ?>
                   <? if ($site['telegram']): ?>
