@@ -102,8 +102,8 @@
    <div class="lbl5">
       <div class="bl_c">
          <div class="head_c">
-            <h3>Қызмет</h3>
-            <h3>түрлерім</h3>
+            <h3>Орталықтың</h3>
+            <h3>қызметтері</h3>
          </div>
          <div class="lbl5_c">
             <div class="lbl5_i">
